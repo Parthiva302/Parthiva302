@@ -1,18 +1,37 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://github.com/parthiva302)
-
-<h1 align="center">Hi 👋, I'm B. Parthiva Aneesh</h1>
-<h3 align="center">
-AI Engineer • Full Stack Developer • Building AI-Powered Products
-</h3>
+<!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./light.svg" alt="B. Parthiva Aneesh GitHub Profile Banner">
+  </picture>
+</p>
+
+<br>
+
+<!-- ===================== INTRO ===================== -->
+
+<h1 align="center">👋 Hey, I'm B. Parthiva Aneesh</h1>
+
+<p align="center">
+  <strong>AI & Future Technologies Student • AI Developer • Full Stack Developer</strong>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=parthiva302&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/parthiva302?style=social"/>
-<img src="https://img.shields.io/github/stars/parthiva302?affiliations=OWNER&style=social"/>
+  <a href="https://github.com/Parthiva302">
+    <img src="https://img.shields.io/badge/GitHub-Parthiva302-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/parthiva-aneesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Parthiva%20Aneesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://aneesh-public-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parthiva302&style=for-the-badge&color=0891B2" alt="Profile Views">
 </p>
 
 ---
@@ -36,7 +55,7 @@ My primary interests are:
 
 # 🚀 Current Focus
 
-### Building **NextStep AI**
+## 🎯 Building NextStep AI
 
 > **Your Next Step, Powered by AI**
 
@@ -44,13 +63,13 @@ An AI-powered student career intelligence platform that helps students understan
 
 ### Current Learning
 
-- LangChain
-- LangGraph
-- AI Agents
-- RAG Pipelines
-- OpenAI APIs
-- System Design
-- Full Stack AI Development
+- 🦜 LangChain
+- 🕸️ LangGraph
+- 🤖 AI Agents
+- 🔍 RAG Pipelines
+- 🧠 OpenAI APIs
+- 🏗️ System Design
+- ⚡ Full Stack AI Development
 
 ---
 
@@ -63,8 +82,6 @@ An AI-powered student career intelligence platform that helps students understan
 - Performance optimization
 - Modern React development
 
----
-
 ## 🌍 Open Source Contributor — GirlScript Summer of Code
 
 - Contributed to multiple open-source repositories
@@ -72,16 +89,12 @@ An AI-powered student career intelligence platform that helps students understan
 - Built developer utilities
 - Worked with React & TypeScript
 
----
-
 ## 💻 Web Developer — InAmigos Foundation
 
 - AI Blog Writing
 - LinkedIn Content Strategy
 - React Development
 - UX/UI Improvements
-
----
 
 ## 💼 Web Developer Intern — SkillCraft Technology
 
@@ -99,23 +112,18 @@ An AI-powered student career intelligence platform that helps students understan
 
 ### AI-powered Student Career Intelligence Platform
 
-### Features
+**Features**
 
-- Resume Analysis
-- Placement Readiness Score
-- AI Career Guidance
-- Skill Gap Detection
-- Personalized Learning Roadmaps
-- AI Opportunity Matching
+- 📄 Resume Analysis
+- 📊 Placement Readiness Score
+- 🧠 AI Career Guidance
+- 🎯 Skill Gap Detection
+- 🗺️ Personalized Learning Roadmaps
+- 🔎 AI Opportunity Matching
 
-### Tech Stack
+**Tech Stack**
 
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Supabase
-- PostgreSQL
-- OpenAI APIs
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `OpenAI APIs`
 
 ---
 
@@ -123,12 +131,9 @@ An AI-powered student career intelligence platform that helps students understan
 
 Privacy-first emotional wellness platform helping users manage stress through breathing exercises, mood tracking, and personal reflections.
 
-**Tech**
+**Tech Stack**
 
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
+`React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 ---
 
@@ -136,25 +141,19 @@ Privacy-first emotional wellness platform helping users manage stress through br
 
 Transparent review platform for creator-led products, communities, and courses.
 
-**Tech**
+**Tech Stack**
 
-- React
-- Tailwind CSS
-- Node.js
-- Express
+`React` `Tailwind CSS` `Node.js` `Express`
 
 ---
 
-## 🗳 Election Guide AI
+## 🗳️ Election Guide AI
 
 Multilingual AI assistant helping users understand elections, voting, and ballot measures.
 
-**Tech**
+**Tech Stack**
 
-- React
-- Gemini API
-- Tailwind CSS
-- Framer Motion
+`React` `Gemini API` `Tailwind CSS` `Framer Motion`
 
 ---
 
@@ -162,58 +161,60 @@ Multilingual AI assistant helping users understand elections, voting, and ballot
 
 A premium animated portfolio built using modern web technologies.
 
-**Tech**
+**Tech Stack**
 
-- Next.js 15
-- React Three Fiber
-- Three.js
-- GSAP
-- Framer Motion
+`Next.js 15` `React Three Fiber` `Three.js` `GSAP` `Framer Motion`
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+### 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql,typescript" />
 </p>
 
-## Frontend
+### 🎨 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs" />
 </p>
 
-## Backend
+### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-## Database
+### 🗄️ Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 </p>
 
-## AI
+### 🤖 AI / LLM
 
-- OpenAI APIs
-- LangChain
-- LangGraph
-- Hugging Face
-- AI Agents
-- RAG
-- Python
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <code>OpenAI APIs</code>
+  <code>LangChain</code>
+  <code>LangGraph</code>
+  <code>Hugging Face</code>
+  <code>RAG</code>
+  <code>AI Agents</code>
+  <code>LLMs</code>
+</p>
 
 ---
 
 # ⚙️ Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,linux"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
 </p>
 
 ---
@@ -236,22 +237,51 @@ A premium animated portfolio built using modern web technologies.
 
 Computer Science Engineering
 
-**Specialization**
+**Specialization:** Artificial Intelligence & Future Technologies
 
-Artificial Intelligence & Future Technologies
-
-🎯 CGPA **9.08**
+🎯 **CGPA: 9.08**
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Parthiva302&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiva302&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    height="180"
+  />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthiva302&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Parthiva302&theme=tokyonight&hide_border=true"
+    width="100%"
+  />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthiva302&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Parthiva302/Parthiva302/output/github-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Parthiva302/Parthiva302/output/github-snake.svg"
+    >
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Parthiva302/Parthiva302/output/github-snake.svg"
+    >
+  </picture>
 </p>
 
 ---
@@ -260,20 +290,20 @@ Artificial Intelligence & Future Technologies
 
 <p align="center">
 
-<a href="https://aneesh-public-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+<a href="mailto:parthivaaneesh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/parthiva-aneesh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://aneesh-public-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <a href="https://github.com/Parthiva302">
-<img src="https://img.shields.io/badge/GitHub-Parthiva302-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/parthiva-aneesh">
-<img src="https://img.shields.io/badge/LinkedIn-Parthiva%20Aneesh-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:parthivaaneesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -293,9 +323,9 @@ I enjoy transforming ideas into real products by combining **Artificial Intellig
 ---
 
 <p align="center">
-If you like my work, consider ⭐ starring my repositories and connecting with me!
+  <strong>CODE • BUILD • DEPLOY • REPEAT</strong>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+  <sub>Built with curiosity, caffeine & continuous learning ☕</sub>
 </p>
